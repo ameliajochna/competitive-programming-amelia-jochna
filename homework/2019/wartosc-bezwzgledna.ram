@@ -1,0 +1,9 @@
+     read  1
+     load  1
+     jgtz  woz
+     jzero woz
+     mult  =-1
+     write 0
+     halt
+woz: write 1
+     halt

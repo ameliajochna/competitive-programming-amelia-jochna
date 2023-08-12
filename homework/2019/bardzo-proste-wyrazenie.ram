@@ -1,0 +1,11 @@
+read  1
+read  2
+load  1
+mult  =3
+store 3
+sub   0
+load  1
+mult  2
+mult  2
+sub   3
+write 0

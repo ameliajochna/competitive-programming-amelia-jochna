@@ -1,0 +1,6 @@
+read  1
+read  2
+load  1
+div   2
+div   2
+write 0
